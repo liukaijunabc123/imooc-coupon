@@ -9,4 +9,4 @@ imooc-coupon  父模块
 |	|——coupon-settlement（依赖coupon-common）
 |	|——coupon-template （依赖coupon-common）
 
-个模块依赖关系
+各模块maven依赖关系
