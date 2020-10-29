@@ -1,5 +1,5 @@
 # imooc-coupon
-微服务项目1
+微服务项目2
 imooc-coupon  父模块
 |——coupon-eureka
 |——coupon-gateway
